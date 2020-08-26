@@ -1,0 +1,39 @@
+C:\Users\Curtis\source\repos\Mock Assessment 5\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Curtis\source\repos\Mock Assessment 5\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Curtis\source\repos\Mock Assessment 5\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Curtis\source\repos\Mock Assessment 5\bin\Debug\netcoreapp3.1\Mock Assessment 5.exe
+C:\Users\Curtis\source\repos\Mock Assessment 5\bin\Debug\netcoreapp3.1\Mock Assessment 5.deps.json
+C:\Users\Curtis\source\repos\Mock Assessment 5\bin\Debug\netcoreapp3.1\Mock Assessment 5.runtimeconfig.json
+C:\Users\Curtis\source\repos\Mock Assessment 5\bin\Debug\netcoreapp3.1\Mock Assessment 5.runtimeconfig.dev.json
+C:\Users\Curtis\source\repos\Mock Assessment 5\bin\Debug\netcoreapp3.1\Mock Assessment 5.dll
+C:\Users\Curtis\source\repos\Mock Assessment 5\bin\Debug\netcoreapp3.1\Mock Assessment 5.pdb
+C:\Users\Curtis\source\repos\Mock Assessment 5\bin\Debug\netcoreapp3.1\Mock Assessment 5.Views.dll
+C:\Users\Curtis\source\repos\Mock Assessment 5\bin\Debug\netcoreapp3.1\Mock Assessment 5.Views.pdb
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Mock Assessment 5.csprojAssemblyReference.cache
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Mock Assessment 5.AssemblyInfoInputs.cache
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Mock Assessment 5.AssemblyInfo.cs
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Mock Assessment 5.csproj.CoreCompileInputs.cache
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Mock Assessment 5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Mock Assessment 5.RazorAssemblyInfo.cache
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Mock Assessment 5.RazorAssemblyInfo.cs
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Mock Assessment 5.TagHelpers.input.cache
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Mock Assessment 5.TagHelpers.output.cache
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Mock Assessment 5.RazorCoreGenerate.cache
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Calculator.cshtml.g.cs
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Mock Assessment 5.RazorTargetAssemblyInfo.cache
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Mock Assessment 5.RazorTargetAssemblyInfo.cs
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Mock Assessment 5.Views.pdb
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\staticwebassets\Mock Assessment 5.StaticWebAssets.Manifest.cache
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\staticwebassets\Mock Assessment 5.StaticWebAssets.xml
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Mock Assessment 5.dll
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Mock Assessment 5.pdb
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Mock Assessment 5.genruntimeconfig.cache
+C:\Users\Curtis\source\repos\Mock Assessment 5\obj\Debug\netcoreapp3.1\Mock Assessment 5.csproj.CopyComplete
